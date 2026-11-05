@@ -111,9 +111,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Andrea Critsina"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Hi! I am a PhD student studying environmental, urban, and climate change economics at UW-Madison Agricultural and Applied Economics. I interested in measuring externalities and unintented concequences from policies. I think spatially. \\ I bring curiosity and motivation from a career in policy-oriented research from a previous career in public policy. Prior to this chapter, I received an MPA from Columbia Unievrsity and a MS in Economics from George Washington Unievrsity"
   location         : "Somewhere"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
